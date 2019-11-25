@@ -149,7 +149,7 @@ var deleteAllScraped = function () {
             else {
                 var $li = $("<li>");
     
-                var title = $("<h5>").text("No More Articles. Get Scraping By Clicking The Button Above!").addClass("center-align");
+                var title = $("<h5>").text("No More Articles. Get Scraping By Clicking The Button Above!").addClass("center-align main-text");
     
                 $li.append(title);
                 $("#scrapeResults").append($li);

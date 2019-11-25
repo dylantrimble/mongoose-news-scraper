@@ -1,5 +1,6 @@
 .collapsible-body {
    padding-bottom: 40px; 
+   background-color: honeydew;
 }
 
 .buttonMargin {
@@ -11,4 +12,9 @@
 }
 body {
     background-image: url("https://wallpaperaccess.com/full/418162.png");
+}
+.center-align{
+    color: whitesmoke;
+    width: 100%;
+    background-color: gray;
 }
