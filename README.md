@@ -3,6 +3,8 @@ An NPR news website scraper utilizing MongoDB, Mongoose, and Cheerio.
 
 ---
 
+![app-home-screen](images/home.png)
+
 ## Functionality
 
 Upon visiting the [website](https://mongonewsnet.herokuapp.com/), the user sees a navbar links to the two pages within the website ('Home' and 'Saved Articles), as well as two buttons. The 'Scrape New Articles' scrapes the articles from NPR's website's main page; the 'Clear Scraped Articles' removes all of the scraped articles.
